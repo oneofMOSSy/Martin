@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro|Old+Standard+TT');
+body {
+    /* margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px; */
+    margin: 0;
+    background-color: #2E2E2E;
+    font-family: 'Old Standard TT', serif;
+    overflow-x: hidden;
+}
+
+#head {
+    margin-left: 45%;
+}
+
+#titel {
+    margin-left: 1%;
+    margin-bottom: 0px;
+    margin-top: 0.5%;
+    height: 25%;
+    width: 25%;
+}
+
+#img {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 420px;
+}
+
+.abt {
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    background-color: white;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 120px;
+    border-radius: 5px;
+}
+
+.abttext {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 2%;
+    /* margin: 0px; */
+}
+
+/* Videos */
+
+#vid {
+    margin-left: 5px;
+}
+
+#vidsec {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 450px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#sec {
+    background-color: #F2F2F2;
+    height: 100%;
+    width: 100%;
+    padding: 1px;
+}
+
+#sec2 {
+    background-color: #1C1C1C;
+    /* height: 50px; */
+    font-size: 25px;
+    height: calc(25px + 0.5em);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 0.5em;
+}
+
+/* #button1 {
+    height: 100%;
+    width: 100px;
+    background-color: #1C1C1C;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid #1C1C1C;
+    text-decoration: none;
+    color: white;
+    margin-left: 2%;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#button1:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    font-size: 30px;
+}
+
+#button2 {
+    height: 100%;
+    width: 100px;
+    background-color: #1C1C1C;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid #1C1C1C;
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#button2:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    font-size: 30px;
+}
+
+#button3 {
+    height: 100%;
+    width: 100px;
+    background-color: #1C1C1C;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid #1C1C1C;
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#button3:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    font-size: 30px;
+}
+
+#button4 {
+    height: 100%;
+    width: 100px;
+    background-color: #1C1C1C;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid #1C1C1C;
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#button4:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    font-size: 30px;
+}
+
+#button5 {
+    height: 100%;
+    width: 100px;
+    background-color: #1C1C1C;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid #1C1C1C;
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#button5:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    font-size: 30px;
+} */
+
+.nav-button {
+    background-color: #1C1C1C;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+    font-family: 'Maven Pro', sans-serif;
+    padding: 0.5em;
+}
+
+.nav-button:hover {
+    background-color: #2E2E2E;
+    border: #1C1C1C;
+    /* font-size: 30px; */
+}
